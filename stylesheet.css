@@ -1,0 +1,44 @@
+#UnicornZ {
+  font-size:65px;
+  font-family: Papyrus, fantasy
+}
+#UnicornZ {
+  background-color: LightSkyBlue;
+  border-style: solid;
+}
+#UnicornZ {
+  border-color: Red;
+}
+#Slime {
+  font-size: 55px;
+  font-family: Comic Sans MS;
+}
+#Slime {
+  background-color: GreenYellow;
+  border-style: dashed;
+}
+#Slime {
+  border-color: Violet;
+}
+.Pusheen {
+  font-size: 35;
+font-family: "Book Antiqua", Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+}
+.Pusheen {
+  background-color: Plum;
+  border-style: groove;
+}
+.Pusheen{
+  border-color: DeepPink;
+}
+#Emoji {
+  font-size: 55px;
+  font-family: Comic Sans MS;
+}
+#Emoji {
+  background-color: Cyan;
+  border-style: dashed;
+}
+#Emoji {
+  border-color: Violet;
+}
